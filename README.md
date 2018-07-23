@@ -1,2 +1,2 @@
 # homeless-monopoly
-something old but kinda relevent
+something old but kinda relevant
